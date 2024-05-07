@@ -2,9 +2,15 @@
 - 👀 I am a frontend developer. Currently working at Physics Wallah as an SDE 2.
   
 
-- I am using this space to showcase my works
+  # I am using this space to showcase my works
 
-- 
+- Webapp to showcase Infinite scroll inplementation
+  Repository Link - https://github.com/vik-dev13/weekday-challenge-fe
+  Deployed Link -  https://weekday-challenge-fe.vercel.app/
+
+- Responsive Landing page
+  Repository Link - https://github.com/vik-dev13/refy-design-3-vik
+  Deployed Link - https://refy-design-3-vik.vercel.app/
 
 
 <!---
