@@ -2,7 +2,7 @@
 - 👀 I am a frontend developer. Currently working at Physics Wallah as an SDE 2.
   
 
-  # I am using this space to showcase my works
+  # My Works
 
 - Webapp to showcase Infinite scroll inplementation
   Repository Link - https://github.com/vik-dev13/weekday-challenge-fe
