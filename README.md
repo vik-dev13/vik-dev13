@@ -5,12 +5,12 @@
   # My Works
 
 - Webapp to showcase Infinite scroll inplementation
-  Repository Link - https://github.com/vik-dev13/weekday-challenge-fe
-  Deployed Link -  https://weekday-challenge-fe.vercel.app/
+  - Repository Link - https://github.com/vik-dev13/weekday-challenge-fe
+  - Deployed Link -  https://weekday-challenge-fe.vercel.app/
 
 - Responsive Landing page
-  Repository Link - https://github.com/vik-dev13/refy-design-3-vik
-  Deployed Link - https://refy-design-3-vik.vercel.app/
+  - Repository Link - https://github.com/vik-dev13/refy-design-3-vik
+  - Deployed Link - https://refy-design-3-vik.vercel.app/
 
 
 <!---
